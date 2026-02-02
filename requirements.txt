@@ -1,0 +1,23 @@
+# News Aggregation System - Python Dependencies
+
+# Core dependencies
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Web scraping
+newspaper3k>=0.2.8
+beautifulsoup4>=4.12.0
+lxml>=4.9.0
+lxml_html_clean>=0.1.0
+
+# AI providers
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Database
+sqlalchemy>=2.0.0
+psycopg2-binary>=2.9.0
+
+# Testing
+pytest>=7.4.0
+hypothesis>=6.92.0

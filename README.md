@@ -383,6 +383,3 @@ news-aggregation-system/
 └── README.md                    # This file
 ```
 
-## License
-
-MIT License
